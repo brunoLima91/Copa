@@ -1,0 +1,39 @@
+<p>Selecione 8 equipes que você desejar para a competição e depois pressione o botão GERAR COPA para prosseguir</p>
+<div class="container main-container">   
+    <p>Selecione 8 equipes que você desejar para a competição e depois pressione o botão GERAR COPA para prosseguir</p>
+    <div class="row tex-center">
+       
+        <div class="col-md-10">
+            <p [ngClass]="{
+                'text-secondary':qtdEquipesSelect < 3,
+                'text-success':qtdEquipesSelect >= 8,            
+                'text-danger':qtdEquipesSelect >= 9
+              }"> Você selecionou {{qtdEquipesSelect}} de 8</p>
+        </div>
+        
+        <div>
+            <button 
+              type="submit" 
+              class="btn btn-primary"
+              (click)="onClickRealizarCopa()"
+              [disabled]="qtdEquipesSelect != 8">Gerar Copa</button>
+        </div>         
+
+    </div>
+
+    <div class="row text-center">
+
+        <div *ngFor="let equipe of equipes" class="col-md-4" style="padding-bottom: 30px">
+            
+                <div class="card h-100"> 
+                    <h4 class="card-title">{{equipe.nome}}</h4>
+                    <p>{{equipe.sigla}}</p>                   
+                    <div class="checkbox">
+                        <input type="checkbox" [(ngModel)]="equipe.isChecked" (change) ="checkValue(equipe.isChecked)"
+                        [disabled]="!equipe.isChecked && qtdEquipesSelect >=8" >                        
+                    </div>
+                </div>
+        </div>
+    </div>
+
+</div>

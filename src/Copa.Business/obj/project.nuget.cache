@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfMCkrPePYoRtYtrDRQIlIze0u1AdDFAODFxrfAFPTc0RgnzqjOifNBS30UzkNMLtidULvldix/2IXg0FeUQKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\OneDrive\\Documentos\\RecrutamentoSelecao\\Squadra\\Copa\\BrunoLimaAPICopa\\src\\Copa.Business\\Copa.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

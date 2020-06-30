@@ -1,0 +1,9 @@
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\bin\Debug\netcoreapp3.1\API.Copa.Business.deps.json
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\bin\Debug\netcoreapp3.1\API.Copa.Business.dll
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\obj\Debug\netcoreapp3.1\API.Copa.Business.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\obj\Debug\netcoreapp3.1\API.Copa.Business.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\obj\Debug\netcoreapp3.1\API.Copa.Business.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\bin\Debug\netcoreapp3.1\API.Copa.Business.pdb
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\obj\Debug\netcoreapp3.1\API.Copa.Business.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\obj\Debug\netcoreapp3.1\API.Copa.Business.dll
+C:\Users\bruno\OneDrive\Documentos\RecrutamentoSelecao\Squadra\Copa\BrunoLimaAPICopa\src\API.Copa.Business\obj\Debug\netcoreapp3.1\API.Copa.Business.pdb
